@@ -56,7 +56,6 @@ li {
 .container ul li span {
   display: block;
   color: var(--fontColor);
-  font-family: system-ui;
   padding: 0.25rem;
 }
 
